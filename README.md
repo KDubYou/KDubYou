@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hi there 👋
+
+Welcome to my github page, im looking to use this more and more going forward. I will be working on things here and there: Mainly private repo stuff but I am keen to use this space to facilitate
+my game design journey
+
 
 <!--
 **KDubYou/KDubYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
