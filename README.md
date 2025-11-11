@@ -14,8 +14,7 @@ Im currently working on a game about being a sad longing robot tasked with takin
 Learning how to make a game with more systems and data than I normally would comprehend; a roguelike
 [gif]
 
-Turning Kooky Sharks into a fully realized released experience
-[gif],[link]
+Making an Audio Visualizer to be able to release albums
 
 
 
@@ -27,14 +26,18 @@ Turning Kooky Sharks into a fully realized released experience
 
 ### I want to work on
 - More games. I love design, I love making insane and unreadable visual messes (see D/M/T & Apocalypsol)
-- So much more too
+- VA Stuff
+- Music
+- ~Art~
+
 
 
 ### I am wanting to learn
 
 - How to save data for different types of games
 - Simplistic Multiplayer and the degrees in which it needs to be applied
-- 3D modelling
+- 3D modelling - kinda not really its super boring
+- Better 2D art - love it
 - How to do everything I want to and also make money at the same time. Sounds awesome in theory.
 
 
